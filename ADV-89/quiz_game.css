@@ -1,0 +1,9 @@
+#output{
+background: blue;
+border-radius: 10px;
+border-top: 10px solid aliceblue ;
+padding: 10px;
+float: none;
+text-align: center;
+}
+
